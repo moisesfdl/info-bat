@@ -1,7 +1,7 @@
 # info-bat
 informatizaçao
 	
-  
+  abatendo a falta de informaçao do sistema , ou a corrupçao de informaçao no sistema , e informatizando on line suas informaçao 
   
   __webreadonly!!
 	search_forResource{
