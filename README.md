@@ -1,5 +1,7 @@
 # info-bat
 informatizaçao
+
+© mfdl - moises ferreira lima
 	
   abatendo a falta de informaçao do sistema , ou a corrupçao de informaçao no sistema , e informatizando on line suas informaçao 
   
